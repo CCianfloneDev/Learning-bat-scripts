@@ -1,5 +1,5 @@
 @ECHO off
-:: This batch script will take in two user input and divid them
+:: This batch script will take in two user input and divide them
 CLS
 
 ECHO Enter a number:
