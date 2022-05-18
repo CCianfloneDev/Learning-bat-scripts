@@ -1,5 +1,5 @@
 @ECHO off
-:: This batch script will take in two user input and multiply them"
+:: This batch script will take in two user input and multiply them
 CLS
 
 ECHO Enter a number:
